@@ -1,4 +1,4 @@
-EX-21-POINTERS
+X-21-POINTERS
 # AIM:
 Write a C program to convert a 23.65 into 25 using pointer
 
@@ -7,7 +7,7 @@ Write a C program to convert a 23.65 into 25 using pointer
 2.	Declare a pointer to double to point to the address of the variable.
 3.	Use the pointer to modify the value to 25.0.
 4.	Print the modified value.
-
+5.	
 ## PROGRAM:
 #include <stdio.h>
 
@@ -137,7 +137,7 @@ int main() {
 ![m5 3](https://github.com/user-attachments/assets/4d0381b8-2ec4-42b1-b373-d106e2766e54)
 
  ## RESULT:
- 
+ Thus the C Program to Sum of each row of a Matrix executed succesfully
 
 
 # EX-24-STRINGS
